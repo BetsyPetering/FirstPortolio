@@ -19,3 +19,11 @@ The Challenges / New Knowledge Gained:
    The final page with contact information does not concern me, either - except that it will be fun to learn all of the possibilities because I need to use them in my real life job soon. I will try to stay focussed and also have this done for Christmas.
 
    Hope you all are having a restful break - outside of grading our homework :)
+
+Update December 26, 2019 at 5:16pm
+
+   First, I added the reset.css which helped to see where some errors were. Then  I was successful at getting the first page to "look" correct - with some sloppy practices which I hope to learn to do better. For some reason it won't listen to the "text-decoration: none" command, so my buttons have the link underlines, frustrating.
+
+   I chose to leave the footer as stuck to the bottom because as a small footer, it doesn't take up enough space to be an eyesore.
+
+   Now I'm on to the next pages!
