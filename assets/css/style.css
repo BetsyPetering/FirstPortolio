@@ -41,15 +41,13 @@ header {
 /* code for navigation*/ 
 .box {
   position: relative;
-  color: #eee;
-  background: #4aaaa5;
+  color: #ffffff;
   top: 30px;
   width: 10%;
   float: left;
   font-family: 'Georgia', Times, 'Times New Roman', serif;
   font-size: 18px;
   text-align: center;
-  text-decoration: none;
 }
 
 .button-1 { 

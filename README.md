@@ -27,3 +27,8 @@ Update December 26, 2019 at 5:16pm
    I chose to leave the footer as stuck to the bottom because as a small footer, it doesn't take up enough space to be an eyesore.
 
    Now I'm on to the next pages!
+
+   January 4, 2020
+      Yessss, I found the way to tell code not to underline hyperlinks - in the html, not the css where I had been beating my head!
+
+      And, I'm starting over on the page 2 because I was going down the grid method which didn't seem to allow the banner with the job/website name on it. So, I finally slapped my forehead and said, "use what they taught, not what they did not teach" duh! So, I have 2 portfolio html and css files. I will delete the losers once I have it perfect :)
