@@ -16,23 +16,16 @@ body {
 }
 
 header {
-  width: 100%;
   height: 75px;
   background: #ffffff;
 }
 
 .namebox {
-    position: relative;
-    width: 100%;
-    background: #ffffff;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-}
-
-.name {
     left: 0%; 
     width: 30%;
     float: left;
-    margin: 2px 5% 0 3%;
+    margin: 2px 5% 0 5%;
     padding: 20px 0;
     font-size: 28px;
     font-weight: bold;
@@ -44,7 +37,6 @@ header {
 /* code for navigation*/ 
 .box {
   position: relative;
-  color: #ffffff;
   top: 30px;
   width: 10%;
   float: left;
@@ -65,28 +57,30 @@ header {
   left: 29%;
 }
 
-
 /* define page portfolio container */
 
 .container {
   position: relative;
   width: 90%;
-  margin-top: 30px;
+  margin-top: 20px;
+  margin-left: 5%;
   background: #ffffff;
-  width: 960px;
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   clear: both;
 }
 
 .porttitle {
-  width: 30%;
+  position: relative;
+}
+
+h2 {
+  width: 25%;
   padding-top: 20px;
   font-family: 'Georgia', Times, 'Times New Roman', serif;
   font-size: 24px;
   font-weight: bold;
   text-align: center;
   color: #4aaaa5;
-  background: #ffffff;
 }
 
 /*style divider line*/
@@ -94,6 +88,7 @@ header {
 #divider {
   height: 20px;
   align-items: center;
+  clear: both;
 }
 
 hr {
@@ -105,20 +100,14 @@ hr {
 /*style and position portfolio boxes*/
 
 .portlist {
-  position: relative;
-  width: 100%;
-  background: #ffffff;
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 24px;
   font-weight: bold;
   text-align: center;
-  clear: both;
 }
 
 #leftcol {
-  position: absolute;
-  top: 0;
-  left: 0;
+  position: relative;
    width: 33.3%;
    height: 820px;
    background: #ffffff;
@@ -180,9 +169,7 @@ hr {
 }
 
 #middlecol {
-  position: absolute;
-  top: 0;
-  left: 33.33%;
+  position: relative;
   width: 33.3%;
   height: 820px;
   background: #ffffff;
@@ -234,9 +221,7 @@ hr {
 }
 
 #rightcol {
-  position: absolute;
-  top: 0;
-  left: 66.66%;
+  position: relative;
   width: 33.4%;
   height: 820px;
   background: #ffffff;
@@ -245,18 +230,15 @@ hr {
 
     /* define Footer use Clear to separate from previous definitions */
 
-footer {
-  position: sticky;  
-  bottom: 0;
-  clear: both;
-}
-
-.stayonbottom {
-  width: 100%;
-  padding: 20px;
-  color: rgb(214, 214, 214);
-  border-top: 8px solid #4aaaa5;
-  background: #666666;
-  text-align: center;
-  font-size: 12px;
-}
+    footer {
+      position: sticky;
+      bottom: 0;
+      background:  #666666;
+      color: rgb(194, 193, 193);
+      text-align: center;
+      font-size: 12px;
+      padding: 10px;
+      border-top: 3px;
+      border-top-color: #4aaaa5;
+      clear: both;
+    }
