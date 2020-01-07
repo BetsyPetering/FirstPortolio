@@ -32,3 +32,12 @@ Update December 26, 2019 at 5:16pm
       Yessss, I found the way to tell code not to underline hyperlinks - in the html, not the css where I had been beating my head!
 
       And, I'm starting over on the page 2 because I was going down the grid method which didn't seem to allow the banner with the job/website name on it. So, I finally slapped my forehead and said, "use what they taught, not what they did not teach" duh! So, I have 2 portfolio html and css files. I will delete the losers once I have it perfect :)
+
+January 6, 2020
+    I solved the footer issue - and cleaned up many others. Note to self: stopping and going over code with a fine tooth comb cleans up lots of sloppy work and uncovers issues you didn't know you had.......
+
+    Created the html pages for the portfolio buttons to navigate to, but cannot get them to work - this is next on the list.
+
+    In solving the footer issue and making it sticky, the footer's border-top-color disappeared, again. Need to fix.
+
+    Also, need to make the contact form page.
