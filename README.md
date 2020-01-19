@@ -41,3 +41,6 @@ January 6, 2020
     In solving the footer issue and making it sticky, the footer's border-top-color disappeared, again. Need to fix.
 
     Also, need to make the contact form page.
+
+January 13, 2020
+   Deleted the original Portfolio.html and Portfolio.css because the second try in Portfolio2 works. In hindsight, perhaps it would have been better to keep them in another branch.
